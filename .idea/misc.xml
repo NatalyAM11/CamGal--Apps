@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OctavoSemestre/App/Clase9CamaraGaleria/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/OctavoSemestre/App/Clase9CamaraGaleria/app/src/main/res/layout/contactview.xml" value="0.25" />
+        <entry key="..\:/OctavoSemestre/App/Clase9CamaraGaleria/app/src/main/res/xml/paths.xml" value="0.1526268115942029" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27265210926482314" />
+        <entry key="app/src/main/res/layout/contactview.xml" value="0.44240597772751883" />
+        <entry key="app/src/main/res/layout/fragment_add_contact.xml" value="0.3910731391454932" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
